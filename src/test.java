@@ -1,14 +1,16 @@
+import java.util.LinkedList;
+
 public class test {
 
-    public static void plus(Integer a, Integer b) {
-        a = a + b;
-    }
     public static void main(String[] args) {
-        Integer a = 2;
-        Integer b = 3;
+        LinkedList<String> linkedList = new LinkedList<>();
 
-        plus(a, b);
+        // Adding elements to the linked list
+        linkedList.add("Element 1");
+        linkedList.add("Element 2");
+        linkedList.add(null); // Adding null
 
-        System.out.println(a);
+        System.out.println("Linked List: " + linkedList);
+        System.out.println(linkedList.size());
     }
 }
