@@ -1,3 +1,5 @@
+package ArrayAndString;
+
 public class ReverseWordsInAString {
     public String reverseWords(String s) {
         String[] sToWords = s.split("\\\\s*[^a-zA-Z0-9]+\\\\s*");

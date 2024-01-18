@@ -1,3 +1,5 @@
+package HashMapAndSet;
+
 import java.util.*;
 
 public class UniqueNumberOfOccurrences {

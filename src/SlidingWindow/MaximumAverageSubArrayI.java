@@ -1,3 +1,5 @@
+package SlidingWindow;
+
 public class MaximumAverageSubArrayI {
     public static double findMaxAverage(int[] nums, int k) {
         int max = 0;

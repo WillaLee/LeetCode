@@ -1,3 +1,5 @@
+package TwoPointers;
+
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {
         int zeroCount = 0;

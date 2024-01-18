@@ -1,3 +1,5 @@
+package ArrayAndString;
+
 public class ProductOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         int[] multipleFromLeft = new int[nums.length + 1];

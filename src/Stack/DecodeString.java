@@ -1,3 +1,5 @@
+package Stack;
+
 import javax.xml.stream.events.Characters;
 
 public class DecodeString {

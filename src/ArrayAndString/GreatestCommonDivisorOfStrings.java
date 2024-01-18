@@ -1,3 +1,5 @@
+package ArrayAndString;
+
 public class GreatestCommonDivisorOfStrings {
     public String gcdOfStrings(String str1, String str2) {
         int str1ASCII = addASCII(str1);

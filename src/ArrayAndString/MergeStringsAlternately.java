@@ -1,3 +1,5 @@
+package ArrayAndString;
+
 public class MergeStringsAlternately {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder mergedString = new StringBuilder();

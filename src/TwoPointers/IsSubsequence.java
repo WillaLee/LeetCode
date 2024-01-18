@@ -1,3 +1,5 @@
+package TwoPointers;
+
 public class IsSubsequence {
     public static boolean isSubsequence(String s, String t) {
         if(s.length() == 0) {return true;}
