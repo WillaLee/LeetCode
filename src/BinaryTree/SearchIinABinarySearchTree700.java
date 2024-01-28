@@ -1,6 +1,6 @@
 package BinaryTree;
 
-public class SearchIinABinarySearchTree {
+public class SearchIinABinarySearchTree700 {
     public TreeNode searchBST(TreeNode root, int val) {
         if (root == null) { return null; }
         if (root.val == val) {

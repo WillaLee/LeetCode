@@ -1,6 +1,6 @@
 package BinaryTree;
 
-public class DeleteNodeInABST {
+public class DeleteNodeInABST450 {
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) {
             return null;
@@ -24,4 +24,5 @@ public class DeleteNodeInABST {
         root.right = deleteNode(root.right, key);
         return root;
     }
+
 }
