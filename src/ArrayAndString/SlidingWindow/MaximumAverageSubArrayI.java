@@ -1,4 +1,4 @@
-package SlidingWindow;
+package ArrayAndString.SlidingWindow;
 
 public class MaximumAverageSubArrayI {
     public static double findMaxAverage(int[] nums, int k) {

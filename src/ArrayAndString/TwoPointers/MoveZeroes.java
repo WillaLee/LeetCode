@@ -1,4 +1,4 @@
-package TwoPointers;
+package ArrayAndString.TwoPointers;
 
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {

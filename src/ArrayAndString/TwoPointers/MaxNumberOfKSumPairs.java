@@ -1,4 +1,4 @@
-package TwoPointers;
+package ArrayAndString.TwoPointers;
 
 import java.util.*;
 

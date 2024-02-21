@@ -1,4 +1,4 @@
-package SlidingWindow;
+package ArrayAndString.SlidingWindow;
 
 import java.util.Set;
 

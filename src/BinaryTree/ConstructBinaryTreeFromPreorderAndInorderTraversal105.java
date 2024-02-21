@@ -1,7 +1,9 @@
 package BinaryTree;
 
 public class ConstructBinaryTreeFromPreorderAndInorderTraversal105 {
+
   public TreeNode buildTree(int[] preorder, int[] inorder) {
+    //basic solution
     switch (preorder.length) {
       case 0 : return null;
       case 1 : return new TreeNode(preorder[0]);
